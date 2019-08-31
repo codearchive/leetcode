@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Defanging_IP_Address", "Defanging_IP_Address.csproj", "{2C4AA12B-6EF0-4E32-A5B6-D8574796FBAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{4733FF98-EB0C-4006-A37E-7BF5C6604FD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Defanging_IP_Address.Test", "..\Defanging_IP_Address.Test\Defanging_IP_Address.Test.csproj", "{6463B6F8-E8BF-4935-9FAA-CBE59C2DA614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C4AA12B-6EF0-4E32-A5B6-D8574796FBAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4AA12B-6EF0-4E32-A5B6-D8574796FBAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4AA12B-6EF0-4E32-A5B6-D8574796FBAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4AA12B-6EF0-4E32-A5B6-D8574796FBAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6463B6F8-E8BF-4935-9FAA-CBE59C2DA614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6463B6F8-E8BF-4935-9FAA-CBE59C2DA614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6463B6F8-E8BF-4935-9FAA-CBE59C2DA614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6463B6F8-E8BF-4935-9FAA-CBE59C2DA614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6463B6F8-E8BF-4935-9FAA-CBE59C2DA614} = {4733FF98-EB0C-4006-A37E-7BF5C6604FD8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13C7B3D9-8EF5-4AA4-A61C-8F4F4E7DB65C}
+	EndGlobalSection
+EndGlobal
