@@ -10,4 +10,5 @@
     - [771 - Jewels and Stones [done: C#]](Algorithms/Easy/771)
     - [938 - Range Sum of BST](Algorithms/Easy/938)
     - [709 - To Lower Case [done: C#]](Algorithms/Easy/709)
+    - [804 - Unique Morse Code Words [done: C#]](Algorithms/Easy/804)
 
