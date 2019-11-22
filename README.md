@@ -13,4 +13,5 @@
     - [804 - Unique Morse Code Words [done: C#]](Algorithms/Easy/804)
     - [1021 - Remove Outermost Parentheses [done: C#]](Algorithms/Easy/1021)
     - [1252 - Cells with Odd Values in a Matrix [done: C#]](Algorithms/Easy/1252)
+    - [1221 - Split a String in Balanced Strings [done: C#]](Algorithms/Easy/1221)
 
