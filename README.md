@@ -14,4 +14,5 @@
     - [1021 - Remove Outermost Parentheses [done: C#]](Algorithms/Easy/1021)
     - [1252 - Cells with Odd Values in a Matrix [done: C#]](Algorithms/Easy/1252)
     - [1221 - Split a String in Balanced Strings [done: C#]](Algorithms/Easy/1221)
+    - [832 - Flipping an Image [done: C#]](Algorithms/Easy/832)
 
