@@ -16,4 +16,5 @@
     - [1221 - Split a String in Balanced Strings [done: C#]](Algorithms/Easy/1221)
     - [832 - Flipping an Image [done: C#]](Algorithms/Easy/832)
     - [905 - Sort Array By Parity [done: C#]](Algorithms/Easy/905)
+    - [344 - Reverse String [done: C++]](Algorithms/Easy/344)
 
