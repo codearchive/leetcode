@@ -1,4 +1,4 @@
-# 104. Maximum Depth of Binary Tree
+# 136. Single Number
 ----
 
-https://leetcode.com/problems/maximum-depth-of-binary-tree/
+https://leetcode.com/problems/single-number/
