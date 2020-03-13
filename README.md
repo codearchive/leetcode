@@ -17,4 +17,4 @@
     - [832 - Flipping an Image [done: C#]](Algorithms/Easy/832)
     - [905 - Sort Array By Parity [done: C#]](Algorithms/Easy/905)
     - [344 - Reverse String [done: C++]](Algorithms/Easy/344)
-
+    - [104 - Maximum Depth of Binary Tree [done: C++]](Algorithms/Easy/104)
